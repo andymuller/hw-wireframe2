@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 960px;
+    color: #777;
+    background: #777;
+    margin: 0;
+    padding: 0;
+}
+
+header,
+nav,
+section,
+aside,
+footer {
+    background: #ebebeb;
+    text-align: center;
+    position: relative;
+}
+
+article {
+    color: #ebebeb;
+    background: #777;
+    height: 130px;
+    margin-top: 35px;
+    width: 430px;
+    margin-left: 30px;
+}
+
+h1,
+h2,
+p {
+    color: #777;
+    background: #ebebeb;
+}
+
+section {
+    width: 495px;
+    height: 225px;
+}
+
+aside {
+    width: 445px;
+    left: 515px;
+    bottom: 243px;
+    height: 225px;
+}
+
+.reversedcolors {
+    color: #ebebeb;
+    background: #777;
+}
+
+footer {
+    bottom: 195px;
+}
+
+#article {
+    width: 300px;
+    position: relative;
+    left: 80px;
+}
